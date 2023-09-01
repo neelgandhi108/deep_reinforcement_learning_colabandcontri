@@ -7,7 +7,8 @@ GitHub Repository: [https://github.com/neelgandhi108/deep_reinforcement_learning
 
 ## Project Objective
 
-[image1]: https://user-images.githubusercontent.com/10624937/42135623-e770e354-7d12-11e8-998d-29fc74429ca2.gif "Trained Agent"
+![Tennis Agents](https://user-images.githubusercontent.com/10624937/42135623-e770e354-7d12-11e8-998d-29fc74429ca2.gif)
+
 
 The project revolves around a scenario where two agents control rackets aiming to keep a ball in play by bouncing it over a net. Successful bounces earn a reward of +0.1, while allowing the ball to hit the ground or sending it out of bounds incurs a penalty of -0.01. The primary objective for each agent is to sustain the ball's playtime.
 
