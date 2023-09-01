@@ -27,16 +27,6 @@ The observation space is comprised of 8 variables capturing the positions and ve
 
 The environment is deemed successfully solved when the average score, considering the maximum score across both agents, is +0.5 or greater over a span of 100 episodes.
 
-## Getting Started
-
-### Installation Requirements
-
-To get started, follow these steps:
-
-1.  Configure a Python 3.6 environment with PyTorch 0.4.0 and necessary requirements as described in the [Udacity repository](https://github.com/udacity/deep-reinforcement-learning#dependencies).
-2.  Clone this project repository and ensure it is accessible within your Python environment.
-3.  Install the Unity environment by following the instructions in the [Getting Started section](https://github.com/udacity/deep-reinforcement-learning/blob/master/p3_collab-compet/README.md) of the Udacity repository.
-
 ### Download Environment
 
 Download the appropriate environment for your operating system using the links below:
