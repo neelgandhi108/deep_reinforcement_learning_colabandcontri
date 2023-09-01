@@ -1,6 +1,5 @@
 import numpy as np
 import torch
-
 # Helper functions to concatenate/extract multipe agents states/actions for use with the Replay Buffer memory.
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
